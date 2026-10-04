@@ -1,1 +1,1 @@
-# Responsive-landing-page-
+A responsive landing page developed using HTML, CSS, and JavaScript as part of my web development internship at Prodigy InfoTech. The project features a fixed navigation bar, hover effects, scroll-based styling, responsive design, and a user-friendly interface.
